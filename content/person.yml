@@ -1,13 +1,13 @@
 ---
 name:
-  first: Luka
-  last: Harambasic
+  first: Henry
+  last: Stoll
 # information:
 #   - Musterstraße 7
 #   - 68161 Mannheim
 #   - Germany
 address:
-  street: Mustermannstr. 7
-  zip: 67066
-  city: Oppau
+  street: Gertrud-Bäumer-Straße 43
+  zip: 65189
+  city: Wiesbaden
   country: Germany

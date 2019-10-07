@@ -1,6 +1,7 @@
 <template>
   <section class="index">
     <page
+      v-show="false"
       :logo-path="settings.logoPath"
       :footer-links="footer">
       <coverletter-header
@@ -35,7 +36,7 @@
         :image-path="settings.imagePath"
         :is-image-round="settings.isImageRound"
       />
-      <div 
+      <div
         class="main">
         <segment-list
           v-if="education"
@@ -52,7 +53,7 @@
           :justify-description="settings.justifyDescription"
         />
       </div>
-      <skills-list 
+      <skills-list
         v-if="skills"
         :title="skills.title"
         :lists="skills.lists"

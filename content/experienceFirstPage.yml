@@ -2,32 +2,40 @@ title: Experience
 segments:
   -
     title: SAP SE
-    position: User Experience Design
-    description: SAP Analytics Cloud - Creating a prototype with new functionalities based on customer feedback.
+    position: Web Development GBO Board Office
+    description: "Bachelor Thesis: Digitalization of the SAP Management Report with Storytelling"
     location: Walldorf, Germany
     date:
-      from: 08/2018
-      to: 11/2018
+      from: 02/2019
+      to: 05/2019
   -
     title: SAP SE
-    position: Consulting
-    description: Utilities and Waste - IoT (photovoltaic) showcase for municipal utilities.
+    position: Consulting LoB Insurance
+    description: "Supporting Treasury & Risk Management (TRM/FAM) customer projects"
     location: Dresden, Germany
     date:
       from: 02/2018
       to: 05/2018
   -
+    title: SAP America
+    position: SAP HANA Technical Consulting
+    description: Supporting S/4HANA conversion projects at customers across the US
+    location: Palo Alto, CA, United States
+    date:
+      from: 02/2018
+      to: 05/2018
+  -
     title: SAP SE
-    position: SAPUI5 Development
-    description: Innovation Center Network (SAP Work-Life) - Developing a Custom Control to edit and display formatted text in SAPUI5.
+    position: Business Transformation Services
+    description: Develop and evaluate use cases for the Automotive & Manufacturing industry with Machine Learning, IoT, Blockchain, Virtual and Augmented Reality
     location: Walldorf, Germany
     date:
       from: 08/2017
       to: 11/2017
   -
     title: SAP SE
-    position: Webdevelopment
-    description: Global Design Enablement - Developing an internal tool and conceptualize a new software to simplify existing processes.
+    position: ABAP Development
+    description: Treasury & Risk Management - Service & Support
     location: Walldorf, Germany
     date:
       from: 01/2017
