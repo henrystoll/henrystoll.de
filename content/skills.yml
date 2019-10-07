@@ -43,6 +43,9 @@ lists:
       -
         title: PHP
         level: 1
+      -
+        title: MATLAB
+        level: 1
   -
     title: Software
     skills:
@@ -68,7 +71,7 @@ lists:
         title: Project Management
         level: 4
       -
-        title: Design
+        title: User Experience
         level: 3
       -
         title: Communication
