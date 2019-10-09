@@ -3,15 +3,14 @@ segments:
   -
     title: SAP SE / TUM
     position: Student Assistant to Supervisory Board Member
-    description: "TODO-"
-#   Preparing and supporting the Initiative Digital Transformation a lecture at the Technical University Munich (TUM) held by Gerhard Oswald, Member of the SAP Supervisory Board.
+    description: "Preparing and supporting the Initiative Digital Transformation a lecture at the Technical University Munich (TUM) held by Gerhard Oswald, Member of the SAP Supervisory Board."
     location: Mannheim:, Germany
     date:
       from: 09/2018
       to: today
   - title: Q-Summit
     position: Team Lead
-    description: "TODO- I led and enabled various small teams through Design Thinking Workshops to bring Q-Summit to next level and to ensure a professional and high-quality event."
+    description: "Founded in 2016, the Q-Summit became the largest student organised Entrepreneurship & Innovation conference in Germany within only 2.5 years. With more than 1,000 attendees of the Q-Summit conference at the University of Mannheim, the conference represents a platform for Innovation in the Rhine-Neckar region that unites Entrepreneurs, Investors, Corporation, Researchers and Students from diverse backgrounds. I led and enabled various small teams through Design Thinking Workshops to bring Q-Summit to next level and to ensure a professional and high-quality event."
     location: Mannheim, Germany
     date:
       from: 09/2018
@@ -35,7 +34,7 @@ segments:
   -
     title: Q-Summit
     position: Co-Head of Event Production
-    description: "TODO- I was responsible for the team running the main stage."
+    description: "In the first edition of Q-Summit I was involved in several steps of planning and leading the team responsible for running the main stage."
     location: Mannheim, Germany
     date:
       from: 09/2016
@@ -43,7 +42,7 @@ segments:
   -
     title: AG Medientechnik
     position: Chairman
-    description: I led, organized and produced events and concerts at my school for up to 400 people.
+    description: "I led, organized and produced events and concerts at my school for up to 400 people."
     location: Wiesbaden, Germany
     date:
       from: 2012
