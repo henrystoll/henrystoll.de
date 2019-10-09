@@ -7,7 +7,7 @@ module.exports = {
   rootDir: __dirname,
 
   head: {
-    title: 'Your CV',
+    title: 'CV Henry Stoll',
     meta: [
       { charset: 'utf-8' },
       {
