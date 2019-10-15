@@ -94,8 +94,10 @@ module.exports = {
           'index.html'
         )
         const dirtyHtml = fs.readFileSync(indexFilePath, 'utf8')
-        const regex = /<script.*script>/
-        const cleanHtml = dirtyHtml.replace(regex, '')
+        const scriptRegex = /<script.*script>/
+        const linkRegex = /<link rel="preload" href="\/_nuxt\/.*" as="script">/
+        const scriptCleanHtml = dirtyHtml.replace(scriptRegex, '')
+        const cleanHtml = scriptCleanHtml.replace(linkRegex, '')
         fs.writeFileSync(indexFilePath, cleanHtml)
       }
     }
