@@ -1,5 +1,5 @@
-const pkg = require('./package')
-const fs = require('fs')
+import fs from 'fs'
+import path from 'path'
 
 module.exports = {
   mode: 'universal',
@@ -83,6 +83,20 @@ module.exports = {
           exclude: /(node_modules)/,
           options: { fix: true }
         })
+      }
+    }
+  },
+  hooks: {
+    generate: {
+      done(builder) {
+        const indexFilePath = path.join(
+          builder.nuxt.options.generate.dir,
+          'index.html'
+        )
+        const dirtyHtml = fs.readFileSync(indexFilePath, 'utf8')
+        const regex = /<script.*script>/
+        const cleanHtml = dirtyHtml.replace(regex, '')
+        fs.writeFileSync(indexFilePath, cleanHtml)
       }
     }
   }
