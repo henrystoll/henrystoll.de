@@ -16,14 +16,6 @@ segments:
       from: 09/2018
       to: 09/2019
   -
-    title: Arbeitskreis Börse
-    position: Head of IT Department
-    description: "The oldest financial association lead by students in Germany with more than 1,000 members. I was in charge of delivering digital transformation through automation and simplification of processes across all resorts."
-    location: Mannheim, Germany
-    date:
-      from: 09/2016
-      to: 04/2017
-  -
     title: SAP SE
     position: Lead of Student IoT project
     description: "Developing a digital IoT-enabled agenda for the SAP International Training Center in Walldorf with an eight person team. I was responsible for the coordination of stakeholders and project subgroups as well as the frontend development."
@@ -31,6 +23,14 @@ segments:
     date:
       from: 01/2017
       to: 09/2018
+  -
+    title: Arbeitskreis Börse
+    position: Head of IT Department
+    description: "The oldest financial association lead by students in Germany with more than 1,000 members. I was in charge of delivering digital transformation through automation and simplification of processes across all resorts."
+    location: Mannheim, Germany
+    date:
+      from: 09/2016
+      to: 04/2017
   -
     title: Q-Summit
     position: Co-Head of Event Production
