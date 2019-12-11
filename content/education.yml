@@ -2,7 +2,8 @@
 title: Education
 segments:
   -
-    title: B.Sc. Corporative State University Baden-Württemberg (DHBW)
+#    title: B.Sc. Corporative State University Baden-Württemberg (DHBW)
+    title: B.Sc. Duale Hochschule Baden-Württemberg
     description: Business Informatics (Sales and Consulting) at SAP SE
     location: Mannheim, Germany
     date:
