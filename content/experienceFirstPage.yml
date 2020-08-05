@@ -1,6 +1,30 @@
 title: Experience
 segments:
   -
+    title: paperjunkies.de GbR
+    position: Business Development Internship
+    description: Conception, Design and Development of a new Hardware Product with Hybrid App
+    location: Wiesbaden, Germany
+    date:
+      from: 04/2020
+      to: 07/2020
+  -
+    title: NEON Software Solutions GmbH
+    position: Software Development Internship
+    description: "Web Development with Vue.js and Hybrid App Development"
+    location: Berlin, Germany
+    date:
+      from: 01/2020
+      to: 03/2020
+  -
+    title: SAP SE
+    position: Cooperate Student Business Informatics
+    description: Six internships in various departments ranging from Software Development to Business Consulting
+    location: Walldorf, Germany
+    date:
+      from: 09/2016
+      to: 09/2020
+  -
     title: SAP SE
     position: Web Development GBO Board Office
     description: "Bachelor Thesis: Digitalization of the SAP Management Report with Storytelling"
@@ -8,14 +32,14 @@ segments:
     date:
       from: 02/2019
       to: 05/2019
-  -
-    title: SAP SE
-    position: Consulting LoB Insurance
-    description: "Supporting Treasury & Risk Management (TRM/FAM) customer projects"
-    location: Dresden, Germany
-    date:
-      from: 02/2018
-      to: 05/2018
+  # -
+  #   title: SAP SE
+  #   position: Consulting LoB Insurance
+  #   description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
+  #   location: Dresden, Germany
+  #   date:
+  #     from: 02/2018
+  #     to: 05/2018
   -
     title: SAP America
     position: SAP HANA Technical Consulting
@@ -24,19 +48,19 @@ segments:
     date:
       from: 02/2018
       to: 05/2018
-  -
-    title: SAP SE
-    position: Business Transformation Services
-    description: Develop and evaluate use cases for the Automotive & Manufacturing industry with Machine Learning, IoT, Blockchain, Virtual and Augmented Reality
-    location: Walldorf, Germany
-    date:
-      from: 08/2017
-      to: 11/2017
-  -
-    title: SAP SE
-    position: ABAP Development
-    description: Treasury & Risk Management - Service & Support
-    location: Walldorf, Germany
-    date:
-      from: 01/2017
-      to: 04/2017
+  # -
+  #   title: SAP SE
+  #   position: Business Transformation Services
+  #   description: Develop and evaluate use cases for the Automotive & Manufacturing industry with Machine Learning, IoT, Blockchain, Virtual and Augmented Reality
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 08/2017
+  #     to: 11/2017
+  # -
+  #   title: SAP SE
+  #   position: ABAP Development
+  #   description: Treasury & Risk Management - Service & Support
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 01/2017
+  #     to: 04/2017

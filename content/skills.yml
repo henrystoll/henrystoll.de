@@ -11,13 +11,14 @@ lists:
         title: Vue.js
         level: 4
       -
+        title: flutter
+        level: 3
+      -
         title: React.js
+        level: 3
       -
         title: SAPUI5
         level: 3
-      -
-        title: HTML5
-        level: 4
       -
         title: CSS3
         level: 4
@@ -29,14 +30,16 @@ lists:
         level: 3
       -
         title: VBA
+        level: 1
       -
         title: SAP HANA
         level: 2
       -
         title: SQL
-        level: 4
+        level: 2
       -
         title: ABAP
+        level: 3
       -
         title: Java/Kotlin
         level: 2
@@ -73,9 +76,6 @@ lists:
       -
         title: User Experience
         level: 3
-      -
-        title: Communication
-        level: 4
       -
         title: Presentation
         level: 4
