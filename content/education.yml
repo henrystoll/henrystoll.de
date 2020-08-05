@@ -2,9 +2,16 @@
 title: Education
 segments:
   -
+    title: Copenhagen Business School
+    description: M.Sc. Data Science & Business Adminstration
+    location: Copenhagen, Denmark
+    date:
+      from: 09/2020
+      to: 07/2022
+  -
 #    title: B.Sc. Corporative State University Baden-Württemberg (DHBW)
-    title: B.Sc. Duale Hochschule Baden-Württemberg
-    description: Business Informatics (Sales and Consulting) at SAP SE
+    title: Duale Hochschule Baden-Württemberg
+    description:  B.Sc. Business Informatics at SAP SE
     location: Mannheim, Germany
     date:
       from: 09/2016
