@@ -5,6 +5,9 @@ lists:
     title: Development
     skills:
       -
+        title: Python
+        level: 3
+      -
         title: JavaScript
         level: 4
       -
@@ -26,14 +29,11 @@ lists:
         title: Git
         level: 3
       -
-        title: Python
-        level: 3
-      -
         title: VBA
         level: 1
-      # -
-      #   title: SAP HANA
-      #   level: 2
+      -
+        title: SAP HANA
+        level: 2
       -
         title: SQL
         level: 2
@@ -65,10 +65,13 @@ lists:
         title: Slack
         level: 4
       -
-        title: HubSpot
+        title: Zapier
         level: 3
       -
-        title: Zapier
+        title: Alteryx
+        level: 3
+      -
+        title: Tableau
         level: 3
   -
     title: Others
