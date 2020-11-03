@@ -23,7 +23,7 @@ segments:
   #   location: Walldorf, Germany
   #   date:
   #     from: 09/2016
-  #     to: 09/2020
+  #     to: 09/2019
   -
     title: SAP SE
     position: Web Development GBO Board Office
@@ -36,10 +36,10 @@ segments:
     title: SAP SE
     position: Consulting LoB Insurance
     description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
-    location: Dresden, Germany
+    location: Walldorf, Germany
     date:
-      from: 02/2018
-      to: 05/2018
+      from: 08/2018
+      to: 11/2018
   -
     title: SAP America
     position: SAP HANA Technical Consulting
