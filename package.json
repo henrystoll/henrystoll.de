@@ -14,9 +14,9 @@
     "now-build": "nuxt generate"
   },
   "dependencies": {
-    "nuxt-start": "^2.6.3",
     "normalize.css": "^8.0.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "nuxt-start": "^2.6.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",

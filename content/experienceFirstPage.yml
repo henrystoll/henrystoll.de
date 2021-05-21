@@ -1,9 +1,17 @@
 title: Experience
 segments:
   -
+    title: CBS Department of Digitalization
+    position: Student Assistant Blockchain
+    description: Development of Use Cases for Product Authentification, Tracability and Sustainability based on Hyperledger 
+    location: Copenhagen, Denmark
+    date:
+      from: 04/2020
+      to: now
+  -
     title: paperjunkies.de GbR
     position: Business Development Internship
-    description: Conception, Design and Development of a new Hardware Product with Hybrid App
+    description: Design and Development of a new Hardware Product with Hybrid App
     location: Wiesbaden, Germany
     date:
       from: 04/2020
@@ -32,18 +40,18 @@ segments:
     date:
       from: 02/2019
       to: 05/2019
-  -
-    title: SAP SE
-    position: Consulting LoB Insurance
-    description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
-    location: Walldorf, Germany
-    date:
-      from: 08/2018
-      to: 11/2018
+  # -
+  #   title: SAP SE
+  #   position: Consulting LoB Insurance
+  #   description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 08/2018
+  #     to: 11/2018
   -
     title: SAP America
     position: SAP HANA Technical Consulting
-    description: Supporting S/4HANA conversion projects at customers across the US
+    description: S/4HANA conversion projects at customers across the US
     location: Palo Alto, CA, United States
     date:
       from: 02/2018

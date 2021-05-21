@@ -2,6 +2,14 @@ title:
 segments:
   -
     title: SAP SE
+    position: Consulting LoB Insurance
+    description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
+    location: Walldorf, Germany
+    date:
+      from: 08/2018
+      to: 11/2018
+  -
+    title: SAP SE
     position: Business Transformation Services
     description: Develop and evaluate use cases for the Automotive & Manufacturing industry with Machine Learning, IoT, Blockchain, Virtual and Augmented Reality
     location: Walldorf, Germany

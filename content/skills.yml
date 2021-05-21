@@ -11,13 +11,13 @@ lists:
         title: JavaScript
         level: 4
       -
+        title: React.js
+        level: 3
+      -
         title: Vue.js
         level: 4
       -
         title: flutter
-        level: 3
-      -
-        title: React.js
         level: 3
       # -
       #   title: SAPUI5
@@ -29,13 +29,16 @@ lists:
         title: Git
         level: 3
       -
+        title: R
+        level: 1
+      -
+        title: SQL
+        level: 2
+      -
         title: VBA
         level: 1
       -
         title: SAP HANA
-        level: 2
-      -
-        title: SQL
         level: 2
       -
         title: ABAP
@@ -49,12 +52,15 @@ lists:
       -
         title: PHP
         level: 1
-      -
-        title: MATLAB
-        level: 1
   -
     title: Software
     skills:
+      -
+        title: Alteryx
+        level: 3
+      -
+        title: Tableau
+        level: 3
       -
         title: Office 365
         level: 2
@@ -66,12 +72,6 @@ lists:
         level: 4
       -
         title: Zapier
-        level: 3
-      -
-        title: Alteryx
-        level: 3
-      -
-        title: Tableau
         level: 3
   -
     title: Others
@@ -88,6 +88,9 @@ lists:
       -
         title: Presentation
         level: 4
+      -
+        title: SCRUM
+        level: 4
   -
     title: Languages
     skills:
@@ -97,3 +100,7 @@ lists:
       -
         title: English - fluent
         level: 4
+      -
+        title: French - basic
+        level: 1
+
