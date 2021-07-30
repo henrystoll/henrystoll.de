@@ -1,22 +1,31 @@
 title: Experience
 segments:
   -
+    title: UNICEF
+    position: Consultant Blockchain
+    description: The Last Mile Supply Monitoring Project aims to better understand how for example schools, hospitals and children benefit from UNICEF’s supply programmes through integrated reporting of supply data outside of UNICEF’s current systems.
+    location: Copenhagen, Denmark
+    date:
+      from: 07/2021
+      to: now
+  # -
+  -
     title: CBS Department of Digitalization
     position: Student Assistant Blockchain
     description: Development of Use Cases for Product Authentification, Tracability and Sustainability based on Hyperledger 
     location: Copenhagen, Denmark
     date:
       from: 10/2020
-      to: now
-  -
-    title: paperjunkies.de GbR
-    position: Business Development Internship
-    description: Design of a Hardware Product with Hybrid App
-    location: Wiesbaden, Germany
-    date:
-      from: 04/2020
-      to: 07/2020
-  -
+      to: 08/2021
+  # -
+  #   title: paperjunkies.de GbR
+  #   position: Business Development Internship
+  #   description: Design of a Hardware Product with Hybrid App
+  #   location: Wiesbaden, Germany
+  #   date:
+  #     from: 04/2020
+  #     to: 07/2020
+  # -
     title: NEON Software Solutions GmbH
     position: Software Development Internship
     description: "Web Development with Vue.js and Hybrid App Development"
