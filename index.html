@@ -1,115 +1,177 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Henry Stoll – CV</title>
-  <link href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.10/css/pico.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      background-color: #fff;
-      color: #000;
-      font-family: 'Barlow', sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 1rem;
-      line-height: 1.618;
-    }
-    a {
-      color: #113b5e;
-    }
-    h1, h2, h3 {
-      margin-top: 1.2rem;
-      margin-bottom: 0.6rem;
-    }
-    p:first-of-type {
-      margin-top: 0.2rem;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    ul {
-      list-style-type: disc;
-      list-style-position: inside;
-      padding-left: 1rem;
-    }
-    ul li {
-      list-style-type: disc;
-    }
-    .links a {
-      margin-right: 1rem;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Henry Stoll</h1>
-    <p>GenAI Engineer @Danske Bank | AI Solution Architect </p>
-  </header>
-  <p>I love building and shipping fast, especially where AI, data, and cloud meet real-world problems.</p>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Henry Stoll - CV" />
+    <meta name="author" content="Henry Stoll" />
+    <meta
+      name="keywords"
+      content="Henry Stoll, CV, Resume, Data Scientist, AI, Machine Learning, Software Engineer"
+    />
+    <link rel="icon" type="image/svg" href="favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
+    />
 
-  <section class="section">
-    <h2>Experience</h2>
-    <ul>
-      <li>
-        <strong>Danske Bank</strong> – Senior Data Scientist (2024–Present, Copenhagen)<br />
-        GenAI Engineer & Architect – Leading the design and implementation of GenAI solutions and architecture across the bank.
-      </li>
-      <li>
-        <strong>UNHCR</strong> – Data Scientist (2023–2024, Copenhagen)<br />
-        Led the development of scalable NLP systems for hateful language using Llama2, Mistral, and BERT, capable of classifying 100.000 post/minute. Built robust MLOps pipelines on AWS and GCP. Acted as Technical Lead for a team of external developers to deploy and iterate on tools and datasets across UNHCR operations.
-      </li>
-      <li>
-        <strong>rapidcreative.io</strong> – Technical Advisor (2023, Copenhagen)<br />
-        Technical lead for an GenAI-based video generation workflow using LangChain, and React on GCP.
-      </li>
-      <li>
-        <strong>UNICEF</strong> – Technology Consultant (2021–2023, Copenhagen)<br />
-        Technical lead for supply visibility solution in global NGO logistics. Led cross-border implementation in 10+ countries. Managed a team of 5 and supported in-country deployment with field mission in Lebanon. Designed scalable mobile solutions for over 9000 NGO partners. Built with Nest, React and Databricks on Azure.
-      </li>
-      <li>
-        <strong>Copenhagen Business School</strong> – Student Assistant Blockchain (2020–2021, Copenhagen)<br />
-        Technical Lead for whitelabel solutions in sustainability, product authentication, and traceability for 7 local industries. Used React and Next. 
-      </li>
-      <li>
-        <strong>NEON Software Solutions GmbH</strong> – Software Engineer Intern (2020, Berlin)<br />
-        Built the frontend and mobile app for Doguniversity (now 300k+ users) using Vue.js and Flutter. Co-developed a video education platform (okourse).
-      </li>
-      <li>
-        <strong>SAP</strong> – Business Informatics (2016–2019, Walldorf & Palo Alto)<br />
-        Worked as consultant across industries such as Finance, Insurance, Automotive, Manufacturing and Consumer Goods in Germany and the US. Built internal tools for executive-level reporting with the Supervisory Board.
-      </li>
-    </ul>
-  </section>
+    <title>Henry Stoll – CV</title>
+    <style>
+      :root {
+        --pico-font-family-sans-serif: "Inter", systems-ui, sans-serif;
+        --pico-font-weight: 400;
+        --pico-typography-spacing-vertical: 1.7rem;
+        font-optical-sizing: auto;
+        font-style: normal;
+      }
+      a {
+        /* color: #113b5e; */
+      }
+      p:first-of-type {
+        margin-top: 0.2rem;
+      }
+      ul {
+        padding-left: 1rem;
+      }
+      ul li {
+        list-style-type: disc;
+      }
+      .experience ul li {
+        margin-top: 0.7rem;
+      }
+      .links a {
+        margin-right: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <hgroup>
+          <h1>Henry Stoll</h1>
+          <p>GenAI Engineer @Danske Bank | AI Solution Architect</p>
+        </hgroup>
+        <p>
+          Build and ship fast, especially where AI, data, systems and cloud meet
+          real-world problems.
+        </p>
+        <!-- <nav>
+          <ul>
+            <li><a href="#" data-theme-switcher="auto">Auto</a></li>
+            <li><a href="#" data-theme-switcher="light">Light</a></li>
+            <li><a href="#" data-theme-switcher="dark">Dark</a></li>
+          </ul>
+        </nav> -->
+      </header>
 
-  <section class="section">
-    <h2>Education</h2>
-    <ul>
-      <li>Copenhagen Business School – M.Sc. Data Science & Business Administration (2020–2022)</li>
-      <li>IT-Universitetet i København – Big Data Management (2021)</li>
-      <li>University of Copenhagen – Advanced NLP (2021)</li>
-      <li>DHBW – B.Sc. Business Informatics (2016–2019)</li>
-      <li>Ontario Tech University – Computer Science Summer School (2019)</li>
-    </ul>
-  </section>
+      <section class="experience">
+        <h3>Experience</h3>
+        <ul>
+          <li>
+            <strong>Danske Bank</strong> – Senior Data Scientist (2024–Present,
+            Copenhagen)<br />
+            GenAI Engineer & Architect – Leading the design and implementation
+            of GenAI solutions and architecture across the bank. Currently
+            focused on org-wide scalable Agent Orchestration and Tools via MCP.
+          </li>
+          <li>
+            <strong>UNHCR</strong> – Data Scientist (2023–2024, Copenhagen)<br />
+            Led the development of scalable NLP systems for hateful language
+            using Llama2, Mistral, and BERT, capable of classifying 100.000
+            post/minute. Built robust MLOps pipelines on AWS and GCP. Acted as
+            Technical Lead for a team of external developers to deploy and
+            iterate on tools and datasets across UNHCR operations.
+          </li>
+          <li>
+            <strong>rapidcreative.io</strong> – Technical Advisor (2023,
+            Copenhagen)<br />
+            Technical lead for an GenAI-based video generation workflow using
+            LangChain, and React on GCP.
+          </li>
+          <li>
+            <strong>UNICEF</strong> – Technology Consultant (2021–2023,
+            Copenhagen)<br />
+            Technical lead for supply visibility solution in global NGO
+            logistics. Led cross-border implementation in 10+ countries. Managed
+            a team of 5 and supported in-country deployment with field mission
+            in Lebanon. Designed scalable mobile solutions for over 9000 NGO
+            partners. Built with Nest, React and Databricks on Azure.
+          </li>
+          <li>
+            <strong>Copenhagen Business School</strong> – Student Assistant
+            Blockchain (2020–2021, Copenhagen)<br />
+            Technical Lead for whitelabel solutions in sustainability, product
+            authentication, and traceability for 7 local industries. Used React
+            and Next.
+          </li>
+          <li>
+            <strong>NEON Software Solutions GmbH</strong> – Software Engineer
+            Intern (2020, Berlin)<br />
+            Built the frontend and mobile app for Doguniversity (now 300k+
+            users) using Vue.js and Flutter. Co-developed a video education
+            platform (okourse).
+          </li>
+          <li>
+            <strong>SAP</strong> – Business Informatics (2016–2019, Walldorf &
+            Palo Alto)<br />
+            Worked as consultant across industries such as Finance, Insurance,
+            Automotive, Manufacturing and Consumer Goods in Germany and the US.
+            Built internal tools for executive-level reporting with the
+            Supervisory Board.
+          </li>
+        </ul>
+      </section>
 
-  <section class="section">
-    <ul>
-      <li>Cloud & DevOps – AWS, GCP, Azure, Terraform, CI/CD, DevSecOps</li>
-      <li>Backend – Python, FastAPI, PySpark, data pipelines, NestJS, Go, ABAP, Kotlin, Java</li>
-      <li>Frontend – Vue, React, Svelte, mobile development with Flutter</li>
-      <li>Languages – German (Native), English (Full Professional)</li>
-    </ul>
-  </section>
+      <section class="education">
+        <h3>Education</h3>
+        <ul>
+          <li>
+            Copenhagen Business School – M.Sc. Data Science & Business
+            Administration (2020–2022) – top 5%
+          </li>
+          <li>IT-Universitetet i København – Big Data Management (2021)</li>
+          <li>University of Copenhagen – Advanced NLP (2021)</li>
+          <li>DHBW – B.Sc. Business Informatics (2016–2019) – top 10%</li>
+          <li>
+            Ontario Tech University – Computer Science Summer School (2019)
+          </li>
+        </ul>
+      </section>
 
-  <footer>
-    <div class="links">
-      <a href="cv-henry-stoll.pdf" download>Download CV (PDF)</a>
-      <a href="https://github.com/" target="_blank">GitHub</a>
-      <a href="https://www.linkedin.com/in/henry-stoll" target="_blank">LinkedIn</a>
-      <a href="mailto:hi@henrystoll.de">hi@henrystoll.de</a>
-    </div>
-  </footer>
-</body>
+      <section class="skills">
+        <h3>Skills</h3>
+        <ul>
+          <li>Cloud & DevOps – AWS, GCP, Azure, Terraform, CDK, CI/CD</li>
+          <li>
+            Backend – Python, FastAPI, PySpark, data pipelines, NestJS, Go,
+            ABAP, Kotlin, Java
+          </li>
+          <li>
+            Frontend – Vue, React, Svelte, mobile development with Flutter
+          </li>
+          <li>Languages – English (proficient), German (native)</li>
+        </ul>
+      </section>
+
+      <footer>
+        <div class="links">
+          <!-- a href that prints the page  -->
+          <a href="#" onclick="window.print();return false;">Download CV</a>
+          <!-- <a href="cv-henry-stoll.pdf" download>Download CV (PDF)</a> -->
+          <a href="https://github.com/" target="_blank">GitHub</a>
+          <a href="https://www.linkedin.com/in/henry-stoll" target="_blank"
+            >LinkedIn</a
+          >
+          <a href="mailto:hi@henrystoll.de">hi@henrystoll.de</a>
+        </div>
+      </footer>
+    </main>
+  </body>
 </html>
