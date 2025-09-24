@@ -25,12 +25,12 @@ p, li { font-size: 9pt; line-height: 1.1; margin: 0 0 0.2rem 0; }
 ul { margin: 0 0 0.4rem 0; padding-left: 1rem; }
 .experience ul li { margin-top: 0.35rem; }
 
-/* Footer link visibility: hide all footer links by default in print,
-   then expose only the hi@henrystoll.de email link. */
+/* Footer link visibility: hide all footer links in print output */
 .links a { display: none !important; }
 
-/* Show only the exact email link (keep printed text clean) */
-.links a[href^="mailto:hi@henrystoll.de"] {
+/* Show only the email and phone links in print output */
+.links a[href^="mailto:"],
+.links a[href^="tel:"] {
   display: inline !important;
   color: #000 !important;
   text-decoration: none !important;
